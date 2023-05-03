@@ -193,6 +193,10 @@ footer{
 .footer-title span{
     color:#3a6cf4 ;
 }
+.icon1{
+    color: #fff;
+}
+
 @media (max-width:1023px){
     header{
         padding: 10px 20px;
